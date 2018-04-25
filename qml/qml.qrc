@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DrinksDelegate.qml</file>
+        <file>AppMenu.qml</file>
+        <file>BasePage.qml</file>
+        <file>static/logo.png</file>
+        <file>qml.qrc</file>
+        <file>Drinks.qml</file>
+        <file>Settingss.qml</file>
+        <file>sharedFunctions.js</file>
+        <file>Users.qml</file>
+        <file>UsersDelegate.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CategoryDelegate.qml</file>
+        <file>Home.qml</file>
+        <file>AppMenu.qml</file>
+        <file>BasePage.qml</file>
+        <file>static/logo.png</file>
+        <file>qml.qrc</file>
+        <file>Category.qml</file>
+        <file>Settingss.qml</file>
+        <file>sharedFunctions.js</file>
+    </qresource>
+</RCC>
